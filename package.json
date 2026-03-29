@@ -1,0 +1,1 @@
+{\n  "name": "okindatechhub-automarket-k Kenya ecommerce platform",\n  "version": "1.0.0",\n  "description": "Ecommerce platform for AutoMarket in Kenya.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "keywords": ["ecommerce", "kenya", "automarket"],\n  "author": "Elvis Okinda",\n  "license": "ISC"\n}
